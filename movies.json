@@ -1,0 +1,72 @@
+[
+      {
+            "title": "Interstellar",
+            "iscore": 8.7,
+            "rating": "PG-13",
+            "runtime": 169,
+            "released": [2014, 10, 26],
+            "country": "USA",
+            "posters": ["img/interstellar.jfif", "img/inter.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0816692/",
+            "website": "https://www.warnerbros.co.uk/movies/interstellar",
+            "likes": 1021,
+            "dislikes": 122,
+            "posterindex": 0
+      },
+      {
+            "title": "Cars (2006)",
+            "iscore": 6.90,
+            "rating": "PG",
+            "runtime": 117,
+            "released": [2006, 6, 9],
+            "country": "USA",
+            "posters": ["img/cars.jpeg", "img/carrr.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0317219/",
+            "website": "https://cars.disney.com/",
+            "likes": 928,
+            "dislikes": 109,
+            "posterindex": 0
+      },
+      {
+            "title": "Miracle On Ice",
+            "iscore": 6.8,
+            "rating": "PG",
+            "runtime": 150,
+            "released": [1981, 3, 1],
+            "country": "USA",
+            "posters": ["img/miracle.jpeg", "img/1980.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0082754/",
+            "website": "https://www.1980miraclehockeyteam.com/",
+            "likes": 855,
+            "dislikes": 99,
+            "posterindex": 0
+      },
+      {
+            "title": "Avengers: Endgame",
+            "iscore": 8.4,
+            "rating": "PG-13",
+            "runtime": 181,
+            "released": [2019, 4, 26],
+            "country": "USA",
+            "posters": ["img/avengers.jpg", "img/endend.jpg"],
+            "imdb": "https://www.imdb.com/title/tt4154796/",
+            "website": "https://www.marvel.com/movies/avengers-endgame/partners",
+            "likes": 828,
+            "dislikes": 127,
+            "posterindex": 0
+      },
+      {
+            "title": "The Fast and the Furious Tokyo Drift",
+            "iscore": 6,
+            "rating": "PG-13",
+            "runtime": 204,
+            "released": [2006, 6, 16],
+            "country": "USA/Japan",
+            "posters": ["img/fastnfurious.jpg", "img/fasfast.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0463985/",
+            "website": "https://japansociety.org/events/the-fast-and-the-furious-tokyo-drift/",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      }
+]
